@@ -1,5 +1,5 @@
 {
-  "logo": "hub-image:5d7c163be9222f436954c296ec1c983f2e20c8596010134c9ce800bd6d6990a1.png",
+  "logo": "images/5d7c163be9222f43.png",
   "logoAvecNom": true,
   "accueil": {
     "texte": "Bienvenue à"
@@ -189,7 +189,7 @@
       "Ceci implique qu'aucun comportement ou propos\ndéplacé n'est accepté lors de nos événements.",
       "Voici un rappel de ce que nous n'accepterons pas :\nblagues ou offenses à propos de la sexualité / race /\nreligion / nationalité / morphologie / âge."
     ],
-    "url": null,
+    "url": "https://cloudnord.fr/coc/",
     "legende": "L'intégralité de notre\nCode de conduite",
     "slogan": {
       "creux": "Passez",
