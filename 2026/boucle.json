@@ -1,0 +1,210 @@
+{
+  "logo": "hub-image:5d7c163be9222f436954c296ec1c983f2e20c8596010134c9ce800bd6d6990a1.png",
+  "logoAvecNom": true,
+  "accueil": {
+    "texte": "Bienvenue à"
+  },
+  "signature": null,
+  "barreBas": {
+    "afficher": true,
+    "libelle": "À suivre",
+    "message": "Partagez la journée avec",
+    "hashtag": "#CloudNord2026",
+    "finJournee": "Merci et à l'année prochaine !"
+  },
+  "agenda": {
+    "masquerTerminees": false
+  },
+  "messages": {
+    "bienvenue": {
+      "texte": "",
+      "sousTitre": "30 octobre 2026",
+      "effet": "eclate"
+    },
+    "partage": {
+      "texte": "Partagez la journée\navec #CloudNord2026",
+      "sousTitre": "Vos posts s'affichent sur le mur",
+      "effet": "claque"
+    },
+    "silence": {
+      "texte": "Pensez à couper le son\nde votre téléphone",
+      "sousTitre": "Merci pour les speakers !",
+      "effet": "machine"
+    }
+  },
+  "annonces": [
+    {
+      "titre": "Petit déjeuner",
+      "sousTitre": "offert par",
+      "logos": [
+        {
+          "sponsor": "APE Factory",
+          "nom": null,
+          "logo": null,
+          "echelle": 0.72
+        }
+      ]
+    }
+  ],
+  "merciSponsors": "Merci à nos\nSponsors",
+  "plannings": {
+    "hands-on": {
+      "afficher": true,
+      "duree": 5
+    },
+    "track-1-teilhard-de-chardin": {
+      "afficher": true,
+      "duree": 8
+    },
+    "track-2-mf-1092": {
+      "afficher": true,
+      "duree": 8
+    }
+  },
+  "durees": {
+    "accueil": 3,
+    "agenda": 10,
+    "annonces": 4,
+    "merci": 3,
+    "agenda-rappel": 6
+  },
+  "sponsorPages": [
+    {
+      "titre": "",
+      "rangs": [
+        {
+          "taille": 1,
+          "logos": [
+            {
+              "sponsor": "https://www.hoppr.tech",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://www.sfeir.com",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://ekite.info",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            }
+          ]
+        },
+        {
+          "taille": 1,
+          "logos": [
+            {
+              "sponsor": "https://www.axa.fr",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://jetdev.fr",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            }
+          ]
+        }
+      ],
+      "duree": 7
+    },
+    {
+      "titre": "Digital",
+      "rangs": [
+        {
+          "taille": 1,
+          "logos": [
+            {
+              "sponsor": "https://www.apefactory.com",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://www.davidson.fr",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://techsys.fr",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://alexandreit.com",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            }
+          ]
+        }
+      ],
+      "duree": 5
+    },
+    {
+      "titre": "Pack Inclusivité",
+      "rangs": [
+        {
+          "taille": 1,
+          "logos": [
+            {
+              "sponsor": "https://www.apefactory.com",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            },
+            {
+              "sponsor": "https://techsys.fr",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
+            }
+          ]
+        }
+      ],
+      "duree": 4
+    }
+  ],
+  "wallsio": {
+    "titre": "Le mur Cloud Nord",
+    "hashtag": "#CloudNord2026",
+    "parPage": 5,
+    "sponsoriseTous": 0,
+    "bandeau": true,
+    "remplir": true,
+    "dureePage": 0
+  },
+  "conduite": {
+    "paragraphes": [
+      "Nous sommes une communauté ouverte et engagée,\nrespectant les différences et la diversité.",
+      "Ceci implique qu'aucun comportement ou propos\ndéplacé n'est accepté lors de nos événements.",
+      "Voici un rappel de ce que nous n'accepterons pas :\nblagues ou offenses à propos de la sexualité / race /\nreligion / nationalité / morphologie / âge."
+    ],
+    "url": null,
+    "legende": "L'intégralité de notre\nCode de conduite",
+    "slogan": {
+      "creux": "Passez",
+      "orange": "Une bonne\nconférence"
+    }
+  },
+  "feedbacks": {
+    "url": null,
+    "slogan": {
+      "creux": "Pensez",
+      "orange": "À donner vos\nfeedbacks"
+    },
+    "merci": [
+      "Merci",
+      "beaucoup !"
+    ]
+  }
+}
