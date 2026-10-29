@@ -181,7 +181,17 @@
     "sponsoriseTous": 0,
     "bandeau": true,
     "remplir": true,
-    "dureePage": 0
+    "dureePage": 0,
+    "menu": [
+      { "libelle": "Programme", "url": "https://cloudnord.fr/schedule" },
+      { "libelle": "Speakers", "url": "https://cloudnord.fr/speakers" },
+      { "libelle": "Équipe", "url": "https://cloudnord.fr/team" },
+      { "libelle": "Ligne éditoriale", "url": "https://cloudnord.fr/ligne-editoriale" },
+      { "libelle": "Code de conduite", "url": "https://cloudnord.fr/coc" },
+      { "libelle": "Sponsoring", "url": "https://cloudnord.fr/#sponsors" },
+      { "libelle": "Tickets", "url": "https://www.helloasso.com/associations/cloud-nord/evenements/cloudf-nord-2026" },
+      { "libelle": "Lieu", "url": "https://cloudnord.fr/location" }
+    ]
   },
   "conduite": {
     "paragraphes": [
