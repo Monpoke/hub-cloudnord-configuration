@@ -190,6 +190,9 @@
     "remplir": true,
     "dureePage": 0,
     "reseaux": ["bluesky", "x", "linkedin"],
+    "ageMaxJours": 90,
+    "affichage": "defilement",
+    "texteDroite": "Tout le mur sur social.cloudnord.fr",
     "menu": [
       { "libelle": "Programme", "url": "https://cloudnord.fr/schedule" },
       { "libelle": "Speakers", "url": "https://cloudnord.fr/speakers" },
