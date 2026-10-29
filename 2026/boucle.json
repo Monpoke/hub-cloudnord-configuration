@@ -109,6 +109,12 @@
               "nom": null,
               "logo": null,
               "echelle": 0.8
+            },
+            {
+              "sponsor": "https://gentleit.tech",
+              "nom": null,
+              "logo": null,
+              "echelle": 0.8
             }
           ]
         }
@@ -177,6 +183,7 @@
   "wallsio": {
     "titre": "Le mur Cloud Nord",
     "hashtag": "#CloudNord2026",
+    "accroche": "Publiez avec {hashtag} : votre post apparaît ici, et sur les écrans des salles !",
     "parPage": 5,
     "sponsoriseTous": 0,
     "bandeau": true,
