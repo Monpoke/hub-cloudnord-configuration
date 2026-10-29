@@ -189,6 +189,7 @@
     "bandeau": true,
     "remplir": true,
     "dureePage": 0,
+    "reseaux": ["bluesky", "x", "linkedin"],
     "menu": [
       { "libelle": "Programme", "url": "https://cloudnord.fr/schedule" },
       { "libelle": "Speakers", "url": "https://cloudnord.fr/speakers" },
